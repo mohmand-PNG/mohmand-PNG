@@ -22,12 +22,6 @@ I love crafting beautiful and functional web interfaces using modern technologie
 
 ---
 
-### 🎉 Fun Animation
-
-![Snake Animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Connect with Me
 
 <div align="left">
