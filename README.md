@@ -11,15 +11,6 @@ I love crafting beautiful and functional web interfaces using modern technologie
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150" alt="streak graph"  />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -40,10 +31,6 @@ I love crafting beautiful and functional web interfaces using modern technologie
 ### 📫 Connect with Me
 
 <div align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marwamohmand13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marwa-mohmand/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
